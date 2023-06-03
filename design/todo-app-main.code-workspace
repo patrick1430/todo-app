@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../WORD COUNTER"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todo-app-main"
+	}
+}
